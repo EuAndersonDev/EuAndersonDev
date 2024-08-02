@@ -26,17 +26,41 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
 ### About Me:
-I'm a passionate FullStack developer focused on creating efficient and innovative solutions. With experience in JavaScript, Node.js, React, and SQL, I continuously seek new challenges and opportunities to grow.
+<p align="center">
+  <img src="https://via.placeholder.com/150" alt="Profile Image" style="border-radius: 50%; border: 2px solid #4CC9F0; margin-bottom: 15px;" />
+  <br>
+  <b>Hi there!</b> I'm Anderson Reis, a passionate FullStack developer with a strong focus on building innovative and efficient solutions. With experience in JavaScript, Node.js, React, and SQL, I am always on the lookout for new challenges and learning opportunities.
+  <br><br>
+  I’m currently studying System Development at ETEC and working on several projects to enhance my skills. I enjoy tackling complex problems and creating effective solutions that make a difference.
+</p>
 
 ### Connect with me:
-- **[LinkedIn](https://www.linkedin.com/in/anderson-reis-5407311b3/)**
-- **[Instagram](https://www.instagram.com/oandersondev/)**
-- **[Portfolio](https://www.seu-portfolio.com)** (em breve disponível)
+<div align="center">
+  <p><b>Let’s connect and collaborate!</b></p>
+  <a href="https://www.linkedin.com/in/anderson-reis-5407311b3/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px; margin: 5px;" />
+  </a>
+  <a href="https://www.instagram.com/oandersondev/" target="_blan">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px; margin: 5px;" />
+  </a>
+  <a href="https://www.seu-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-%23F7DF1E?style=for-the-badge&logo=portfolio&logoColor=black" style="border-radius: 30px; margin: 5px;" />
+  </a>
+</div>
 
 ### 📂 Featured Projects:
-- **[Projeto 1](https://github.com/seu-usuario/projeto-1)**: Disponivel em breve.
-- **[Projeto 2](https://github.com/seu-usuario/projeto-2)**: Disponivel em breve.
-- **[Projeto 3](https://github.com/seu-usuario/projeto-3)**: Disponivel em breve.
+<div align="center">
+  <p><b>Check out some of my featured projects:</b></p>
+  <a href="https://github.com/seu-usuario/projeto-1" target="_blank">
+    <img src="https://img.shields.io/badge/Projeto%201-%234CC9F0?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 30px; margin: 5px;" />
+  </a>
+  <a href="https://github.com/seu-usuario/projeto-2" target="_blank">
+    <img src="https://img.shields.io/badge/Projeto%202-%23B5179E?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 30px; margin: 5px;" />
+  </a>
+  <a href="https://github.com/seu-usuario/projeto-3" target="_blank">
+    <img src="https://img.shields.io/badge/Projeto%203-%234CC9F0?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 30px; margin: 5px;" />
+  </a>
+</div>
 
 ### Visitors Count:
 <div align="center">
