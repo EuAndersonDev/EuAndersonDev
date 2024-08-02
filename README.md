@@ -12,7 +12,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonReis04&layout=compact&hide_border=true&title_color=4CC9F0&text_color=B5179E&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndersonReis04&bg_color=0d1117&color=4cc9f0&line=b5179e&point=720cb6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EuAndersonDev&bg_color=0d1117&color=4cc9f0&line=b5179e&point=720cb6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Studying at the moment:
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
@@ -27,7 +27,6 @@
 
 ### About Me:
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Profile Image" style="border-radius: 50%; border: 2px solid #4CC9F0; margin-bottom: 15px;" />
   <br>
   <b>Hi there!</b> I'm Anderson Reis, a passionate FullStack developer with a strong focus on building innovative and efficient solutions. With experience in JavaScript, Node.js, React, and SQL, I am always on the lookout for new challenges and learning opportunities.
   <br><br>
