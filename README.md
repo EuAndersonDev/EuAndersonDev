@@ -33,7 +33,7 @@
 ### About Me:
 <p align="center">
   <br>
-  <b>Hi there!</b> I'm Anderson Reis, a passionate FullStack developer with a strong focus on building innovative and efficient solutions. With experience in JavaScript, Node.js, React, and SQL, I am always on the lookout for new challenges and learning opportunities.
+  <b>Hi there!</b> I'm Anderson Reis, a passionate FullStack developer with a strong focus on building innovative and efficient solutions. With experience in JavaScript, Node.js, JAVA, and SQL, I am always on the lookout for new challenges and learning opportunities.
   <br><br>
   I’m currently studying System Development at ETEC and working on several projects to enhance my skills. I enjoy tackling complex problems and creating effective solutions that make a difference.
 </p>
