@@ -31,12 +31,12 @@ I'm a passionate FullStack developer focused on creating efficient and innovativ
 ### Connect with me:
 - **[LinkedIn](https://www.linkedin.com/in/anderson-reis-5407311b3/)**
 - **[Instagram](https://www.instagram.com/oandersondev/)**
-- **[Portfolio](https://www.seu-portfolio.com)** (substitua pelo link do seu portfólio, se disponível)
+- **[Portfolio](https://www.seu-portfolio.com)** (em breve disponível)
 
 ### 📂 Featured Projects:
-- **[Projeto 1](https://github.com/seu-usuario/projeto-1)**: Descrição breve do projeto.
-- **[Projeto 2](https://github.com/seu-usuario/projeto-2)**: Descrição breve do projeto.
-- **[Projeto 3](https://github.com/seu-usuario/projeto-3)**: Descrição breve do projeto.
+- **[Projeto 1](https://github.com/seu-usuario/projeto-1)**: Disponivel em breve.
+- **[Projeto 2](https://github.com/seu-usuario/projeto-2)**: Disponivel em breve.
+- **[Projeto 3](https://github.com/seu-usuario/projeto-3)**: Disponivel em breve.
 
 ### Visitors Count:
 <div align="center">
