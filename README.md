@@ -56,13 +56,13 @@
 <div align="center">
   <p><b>Check out some of my featured projects:</b></p>
   <a href="https://github.com/seu-usuario/projeto-1" target="_blank">
-    <img src="https://img.shields.io/badge/Projeto%201-%234CC9F0?style=for-the-badge&logo=github&logoColor=black" style="border-radius: 30px; margin: 5px;" />
+    <img src="https://img.shields.io/badge/Projeto%201-%FFFF00?style=for-the-badge&logo=github&logoColor=black" style="border-radius: 30px; margin: 5px;" />
   </a>
   <a href="https://github.com/seu-usuario/projeto-2" target="_blank">
-    <img src="https://img.shields.io/badge/Projeto%202-%23B5179E?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 30px; margin: 5px;" />
+    <img src="https://img.shields.io/badge/Projeto%202-%23B5179E?style=for-the-badge&logo=github&logoColor=black" style="border-radius: 30px; margin: 5px;" />
   </a>
   <a href="https://github.com/seu-usuario/projeto-3" target="_blank">
-    <img src="https://img.shields.io/badge/Projeto%203-%234CC9F0?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 30px; margin: 5px;" />
+    <img src="https://img.shields.io/badge/Projeto%203-%234CC9F0?style=for-the-badge&logo=github&logoColor=black" style="border-radius: 30px; margin: 5px;" />
   </a>
 </div>
 
