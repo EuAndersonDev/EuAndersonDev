@@ -4,7 +4,10 @@
 
 <div align="center"> 
 <a href="https://www.instagram.com/oandersondev/" target="_blan"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/anderson-reis-5407311b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" /></a> 
+<a href="https://www.linkedin.com/in/anderson-reis-5407311b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" />
+</a>
+<img src="https://img.shields.io/badge/-Portfolio-%23F7DF1E?style=for-the-badge&logo=portfolio&logoColor=black" style="border-radius: 30px; margin: 5px;" />
+</a>
 </div>
 
 <div align="center">  
@@ -24,6 +27,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### About Me:
 <p align="center">
