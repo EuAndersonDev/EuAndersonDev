@@ -12,7 +12,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndersonReis04&show_icons=true&count_private=true&hide_border=true&title_color=4CC9F0&icon_color=480CA8&text_color=c9d1d9&bg_color=0d1117" alt="Anderson Reis github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonReis04&layout=compact&hide_border=true&title_color=4CC9F0&text_color=B5179E&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuAndersonDev&layout=compact&hide_border=true&title_color=4CC9F0&text_color=B5179E&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EuAndersonDev&bg_color=0d1117&color=4cc9f0&line=b5179e&point=720cb6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
