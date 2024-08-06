@@ -5,13 +5,14 @@
 <div align="center"> 
 <a href="https://www.instagram.com/oandersondev/" target="_blan"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/anderson-reis-5407311b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" />
+<a href = "mailto:andersondev25@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </a>
 <img src="https://img.shields.io/badge/-Portfolio-%23F7DF1E?style=for-the-badge&logo=portfolio&logoColor=black" style="border-radius: 30px; margin: 5px;" />
 </a>
 </div>
 
 <div align="center">  
-  ![Anderson Reis github stats](https://github-readme-stats.vercel.app/api?username=AndersonReis04&show_icons=true&count_private=true&hide_border=true&title_color=4CC9F0&icon_color=480CA8&text_color=c9d1d9&bg_color=0d1117)
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusviniciusbrito&show_icons=true&count_private=true&hide_border=true&title_color=4CC9F0&icon_color=480CA8&text_color=c9d1d9&&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuAndersonDev&layout=compact&hide_border=true&title_color=4CC9F0&text_color=B5179E&bg_color=0d1117" />
 </div>
 
