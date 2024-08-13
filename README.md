@@ -18,8 +18,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EuAndersonDev&bg_color=0d1117&color=4cc9f0&line=b5179e&point=720cb6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Aqui está a seção atualizada com o Docker em ferramentas:
-
 ## Minhas Habilidades :
 
 #### Linguagens Principais :
