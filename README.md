@@ -18,6 +18,14 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EuAndersonDev&bg_color=0d1117&color=4cc9f0&line=b5179e&point=720cb6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## About Me:
+<p align="center">
+  <br>
+  <b>Hi there!</b> I'm Anderson Reis, a passionate FullStack developer with a strong focus on building innovative and efficient solutions. With experience in JavaScript, Node.js, JAVA, and SQL, I am always on the lookout for new challenges and learning opportunities.
+  <br><br>
+  I’m currently studying System Development at ETEC and working on several projects to enhance my skills. I enjoy tackling complex problems and creating effective solutions that make a difference.
+</p>
+
 ## Minhas Habilidades :
 
 #### Linguagens Principais :
@@ -49,13 +57,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 
-### About Me:
-<p align="center">
-  <br>
-  <b>Hi there!</b> I'm Anderson Reis, a passionate FullStack developer with a strong focus on building innovative and efficient solutions. With experience in JavaScript, Node.js, JAVA, and SQL, I am always on the lookout for new challenges and learning opportunities.
-  <br><br>
-  I’m currently studying System Development at ETEC and working on several projects to enhance my skills. I enjoy tackling complex problems and creating effective solutions that make a difference.
-</p>
+
 
 ### Connect with me:
 <div align="center">
