@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=560bad&height=120&section=header"/>
 
 <h1 align="center">Anderson Reis</h1>
-<h3 align="center">Backend Developer • Java • Spring Boot • Node.js</h3>
+<h3 align="center">Backend Developer • Java • Spring Boot • Node.js • ExpressJs • NestJs</h3>
 
 <p align="center">
   São Paulo, Brazil 🇧🇷 <br>
