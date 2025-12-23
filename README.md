@@ -82,10 +82,10 @@ Currently studying **Systems Development at ETEC**, I’m focused on strengtheni
   <a href="https://www.linkedin.com/in/anderson-reis-5407311b3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
-  <a href="https://www.instagram.com/oandersondev/" target="_blank">
+  <a href="https://www.instagram.com/anderson_reis04/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
-  <a href="mailto:andersondev25@gmail.com">
+  <a href="mailto:andersonaugustorei1227@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836"/>
   </a>
 </div>
