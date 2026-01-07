@@ -51,14 +51,6 @@ Currently studying **Systems Development at ETEC**, I’m focused on strengtheni
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E44C30)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EuAndersonDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4CC9F0&icon_color=720CB6&text_color=c9d1d9" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuAndersonDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=4CC9F0&text_color=c9d1d9" />
-</div>
 
 ---
 
