@@ -80,6 +80,9 @@ Currently studying **Systems Development at ETEC**, I’m focused on strengtheni
   <a href="mailto:andersonaugustorei1227@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836"/>
   </a>
+  <a href="https://andersonreis.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </div>
 
 ---
