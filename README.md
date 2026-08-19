@@ -5,7 +5,7 @@
 
 <p align="center">
   São Paulo, Brasil 🇧🇷 <br>
-  Estudante de Desenvolvimento de Sistemas na ETEC & Instituto PROA
+  Estudante de Ciência da Computação na UFABC
 </p>
 
 ---
