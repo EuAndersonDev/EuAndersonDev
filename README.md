@@ -66,7 +66,7 @@ Atualmente estudando **Desenvolvimento de Sistemas na ETEC**, busco constante ev
 
 ## 🚀 Projetos em Destaque
 
-- **[EverRise Medical Solutions](#)** — Sistema de automação hospitalar e robótica de reabilitação com integração de hardware (ESP32/Raspberry Pi), comunicação em tempo real via WebSockets e APIs em Java/Spring Boot.
+- **[EverRise Medical Solutions](https://github.com/Ever-Rise)** — Sistema de automação hospitalar e robótica de reabilitação com integração de hardware (ESP32/Raspberry Pi), comunicação em tempo real via WebSockets e APIs em Java/Spring Boot.
 - **[SAL](https://github.com/gabriellimao7500/SAL)** — Sistema de Agendamento de Laboratórios acadêmicos baseado no padrão arquitetural MVC, desenvolvido com Node.js, React e MySQL.
 - **[RealDin](#)** — Plataforma de educação financeira integrando simuladores de investimento e consumo de APIs generativas de Inteligência Artificial.
 - **[Paggie](https://github.com/PaggieOrg/)** — Arquitetura modular para construtor de páginas Web estruturado com Node.js e TypeScript.
