@@ -60,7 +60,10 @@ Atualmente estudando **Desenvolvimento de Sistemas na ETEC**, busco constante ev
 
 ## 📈 Gráfico de Atividade
 
-[![Gráfico de atividades do GitHub de Anderson](https://github-readme-activity-graph.vercel.app/graph?username=EuAndersonDev&bg_color=0d1117&color=4cc9f0&line=720cb6&point=b5179e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de atividades do GitHub de Anderson]
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EuAndersonDev&theme=tokyonight&hide_border=true" alt="Streak do GitHub" />
+</p>
 
 ---
 
