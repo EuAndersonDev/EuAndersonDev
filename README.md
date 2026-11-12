@@ -117,7 +117,7 @@ Sistema acadêmico para agendamento de laboratórios, desenvolvido com arquitetu
 
 **Tecnologias:** Node.js, React e MySQL.
 
-### RealDin
+### [RealDin](https://github.com/EuAndersonDev/RealDin)
 
 Plataforma de educação financeira com simuladores de investimento e integração com APIs de Inteligência Artificial.
 
