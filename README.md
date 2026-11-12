@@ -1,104 +1,171 @@
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=560bad&height=120&section=header"/>
 
 <h1 align="center">Anderson Reis</h1>
-<h3 align="center">Software Engineer • Backend • Java • Spring Boot • Node.js • TypeScript</h3>
+<h3 align="center">Cybersecurity • Software Engineering • Backend • Security Automation</h3>
 
 <p align="center">
-  São Paulo, Brasil 🇧🇷 <br>
+  São Paulo, Brasil 🇧🇷<br>
   Estudante de Ciência da Computação na UFABC
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anderson-reis-5407311b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://andersonreis.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:andersonaugustorei1227@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+  </a>
 </p>
 
 ---
 
-## 👋 Sobre Mim
+## 👨‍💻 Sobre Mim
 
-Sou **Anderson Reis**, **Engenheiro de Software com foco em Backend**, dedicado à construção de **sistemas escaláveis, bem estruturados e de alta performance**.
+Sou estudante de Ciência da Computação e profissional em desenvolvimento de software, com interesse crescente em **Cybersecurity, Security Engineering e automação inteligente**.
 
-Possuo experiência prática no desenvolvimento de APIs RESTful, modelagem de bancos de dados e arquitetura de software utilizando **Java, Spring Boot, Node.js, TypeScript, SQL, MongoDB, Docker e AWS**. Aplico conceitos de **Clean Architecture, SOLID e Design Patterns** para garantir código testável e de fácil manutenção.
+Atualmente, atuo na área de Cybersecurity na SEK, desenvolvendo minha experiência em operações de segurança, monitoramento, análise de eventos e processos relacionados à detecção e resposta a incidentes.
 
-Atualmente estudando **Desenvolvimento de Sistemas na ETEC**, busco constante evolução em **engenharia de sistemas distribuídos, microsserviços e computação em nuvem**.
+Minha base em Engenharia de Software complementa essa trajetória: trabalho com Java, Spring Boot, Node.js, TypeScript e Python, além de conceitos como Clean Architecture, SOLID, Design Patterns e desenvolvimento de APIs.
+
+Tenho interesse especial na interseção entre:
+
+- **Cybersecurity:** SOC, MDR, Security Monitoring e Incident Response.
+- **Security Engineering:** Detection Engineering, Security Automation e DevSecOps.
+- **Software Engineering:** Backend, APIs, arquitetura e sistemas distribuídos.
+- **Cloud Security:** AWS, IAM e segurança de ambientes em nuvem.
+- **AI for Security:** aplicação de IA e LLMs na automação e análise de processos de segurança.
+
+Meu objetivo é construir soluções que conectem engenharia de software e segurança, tornando sistemas mais confiáveis, observáveis e resilientes.
+
+---
+
+## 🎯 Áreas de Interesse
+
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-560bad?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SOC%20%26%20MDR-560bad?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Incident%20Response-560bad?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Detection%20Engineering-560bad?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security%20Automation-560bad?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DevSecOps-560bad?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud%20Security-560bad?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20for%20Security-560bad?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Linguagens & Backend (Foco Principal)**
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white)
+### Linguagens e Backend
 
-### **Bancos de Dados & Nuvem**
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-
-### **Frontend Complementar & Outros**
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
-
-### **Ferramentas de Engenharia**
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E44C30)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-0D1117?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![VSCode](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=4285F4)
-
----
-
-## ⚙️ Práticas de Engenharia de Software
-
-- **Arquitetura & Design:** Clean Architecture, SOLID, Design Patterns, Modelagem Relacional e NoSQL.
-- **Desenvolvimento de APIs:** RESTful APIs, autenticação JWT, tratamento global de exceções e documentação OpenAPI/Swagger.
-- **Qualidade de Código:** Testes unitários e de integração, integração contínua (CI/CD) e padrões de projeto.
-
----
-
-## 📈 Gráfico de Atividade
-
-[![Gráfico de atividades do GitHub de Anderson]
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EuAndersonDev&theme=tokyonight&hide_border=true" alt="Streak do GitHub" />
+<p>
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E"/>
+  <img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B"/>
 </p>
+
+### Bancos de Dados e Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+</p>
+
+### Engenharia de Software
+
+- RESTful APIs e integração entre serviços.
+- Clean Architecture, SOLID e Design Patterns.
+- Modelagem de dados relacionais e NoSQL.
+- Autenticação e autorização com JWT.
+- Testes e documentação de APIs.
+- Git, GitHub e práticas de CI/CD.
+
+### Cybersecurity — Em Desenvolvimento
+
+- Security Operations e fundamentos de SOC/MDR.
+- Monitoramento e análise de eventos de segurança.
+- Fundamentos de Incident Response.
+- MITRE ATT&CK e análise de técnicas e comportamentos.
+- Fundamentos de SIEM, EDR e XDR.
+- Security Automation com Python.
+- Fundamentos de AWS Cloud Security e IAM.
+- DevSecOps e segurança no ciclo de desenvolvimento.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-- **[EverRise Medical Solutions](https://github.com/Ever-Rise)** — Sistema de automação hospitalar e robótica de reabilitação com integração de hardware (ESP32/Raspberry Pi), comunicação em tempo real via WebSockets e APIs em Java/Spring Boot.
-- **[SAL](https://github.com/gabriellimao7500/SAL)** — Sistema de Agendamento de Laboratórios acadêmicos baseado no padrão arquitetural MVC, desenvolvido com Node.js, React e MySQL.
-- **[RealDin](#)** — Plataforma de educação financeira integrando simuladores de investimento e consumo de APIs generativas de Inteligência Artificial.
-- **[Paggie](https://github.com/PaggieOrg/)** — Arquitetura modular para construtor de páginas Web estruturado com Node.js e TypeScript.
+### [EverRise Medical Solutions](https://github.com/Ever-Rise)
+
+Sistema de automação hospitalar e robótica de reabilitação, com integração de hardware e software.
+
+**Tecnologias:** Java, Spring Boot, React, Node.js, WebSockets, ESP32 e Raspberry Pi.
+
+### [SAL — Sistema de Agendamento de Laboratórios](https://github.com/gabriellimao7500/SAL)
+
+Sistema acadêmico para agendamento de laboratórios, desenvolvido com arquitetura MVC e integração entre frontend e backend.
+
+**Tecnologias:** Node.js, React e MySQL.
+
+### RealDin
+
+Plataforma de educação financeira com simuladores de investimento e integração com APIs de Inteligência Artificial.
+
+**Tecnologias:** Desenvolvimento Web e APIs de IA.
+
+### [Paggie](https://github.com/PaggieOrg/)
+
+Projeto de arquitetura modular para construção de páginas web.
+
+**Tecnologias:** Node.js e TypeScript.
 
 ---
 
-## 🔗 Contato
+## 📚 Atualmente Estudando
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/anderson-reis-5407311b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-  <a href="https://andersonreis.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:andersonaugustorei1227@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836"/>
-  </a>
-  <a href="https://www.instagram.com/anderson_reis04/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-  </a>
-</div>
+- Cybersecurity e operações SOC/MDR.
+- Detecção e investigação de eventos de segurança.
+- Python aplicado à automação.
+- AWS e fundamentos de Cloud Security.
+- DevSecOps e segurança de aplicações.
+- Inteligência Artificial aplicada à Cybersecurity.
 
 ---
 
-## 👁️ Visualizações do Perfil
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EuAndersonDev&label=Visualizacoes%20do%20Perfil&color=560bad&style=flat" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EuAndersonDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuAndersonDev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=EuAndersonDev&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Vamos nos Conectar?
+
+Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com profissionais das áreas de Cybersecurity e Software Engineering.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anderson-reis-5407311b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://andersonreis.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-560bad?style=for-the-badge&logo=vercel"/>
+  </a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=560bad&height=120&section=footer"/>
